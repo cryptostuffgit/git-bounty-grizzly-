@@ -1,0 +1,32 @@
+.login-container {
+    height: 40rem;
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-card {
+    height: 400px;
+    width: 375px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-button {
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px; 
+    background-color: black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    font-family: "Golos Text";
+    font-weight: bold;
+}
+
+
+

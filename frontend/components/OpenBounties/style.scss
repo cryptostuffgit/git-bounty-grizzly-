@@ -1,0 +1,81 @@
+.open-bounties-countainer{
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.bounty-card{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 300px;
+    border-radius: 7px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.5);
+    background-color: white;
+    margin: 10px;
+}
+
+.bounty-head{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.payout{
+    margin-top: 10px;
+}
+
+.bounty-body{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.issue-link{
+    text-decoration: underline;
+}
+
+.explanation{
+    margin-top: 20px;
+    margin-left: 13px;
+    margin-right: 13px;
+    text-align: center;
+}
+
+.branch {
+    font-weight: bold;
+}
+
+.link-payment-address{
+    padding: 12px;
+    background-color: greenyellow;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-left: 25px;
+    max-width: 130px;
+    display: inline-block;
+}
+
+.fork-branch{
+    padding: 12px;
+    background-color: rgb(101, 101, 255);
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-left: 25px;
+    max-width: 130px;
+    display: inline-block;
+}
+
+table {
+    text-align: left;
+}

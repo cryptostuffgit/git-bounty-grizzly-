@@ -1,0 +1,18 @@
+.repo-head{
+    user-select: none;
+}
+
+.issue {
+    display: flex;
+    flex-direction: column;
+    // border: 2px solid rgb(105, 107, 105);
+    border-radius: 5px;
+
+}
+
+.Create-Bounty {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}

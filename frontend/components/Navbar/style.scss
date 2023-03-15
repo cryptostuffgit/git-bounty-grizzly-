@@ -1,0 +1,18 @@
+.nav{
+    padding: 22px 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #0a0a0a !important;
+    border-bottom: 2px solid transparent;
+    // border-image: linear-gradient(0.25turn, rgba(153, 69, 255, 1), rgba(20, 241, 149, 1));
+    border-image-slice: 1;
+
+    .logo{
+        color: white;
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+}

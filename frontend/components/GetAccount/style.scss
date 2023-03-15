@@ -1,0 +1,42 @@
+.method-fiedls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .json-key {
+        width: 50%;
+        word-wrap: break-word;
+        text-align: center;
+    }
+
+    .header {
+        margin-left: 5px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .program-address-input {
+        margin: 5px;
+        width: 50%;
+        height: 40px;
+        border-bottom:1px solid #757575;
+        border-radius: 0.3rem;
+        border:solid;
+    }
+
+    .submit-transaction {
+        margin: 10px;
+        font-size:18px;
+        height: 50px;
+        color: black;
+        background-color: #4BB543;
+        border-radius: 5px;
+        padding: 10px 25px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+        outline: none;
+        border-color: black;
+    }
+}
