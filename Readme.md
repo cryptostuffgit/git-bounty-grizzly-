@@ -1,4 +1,6 @@
-# Git Bounty
+# Git Bounty UPDATED
+
+
 
 ## A Solana platform for creating and claiming github issue bounties
 
